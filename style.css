@@ -58,3 +58,9 @@ body{
 .card .card-image .card-title .titulo {
     color: #000;
 }
+
+.wallpuzzle{
+  background: url(http://www.tigriteando.com/wp-content/uploads/2014/09/puzzlewaldor-14.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
